@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CrossyRoad.data.unityweb",
+"asmCodeUrl": "CrossyRoad.asm.code.unityweb",
+"asmMemoryUrl": "CrossyRoad.asm.memory.unityweb",
+"asmFrameworkUrl": "CrossyRoad.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
